@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">User Login Page</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="try_login_again">Sorry, you\'re logged out of the system. \n Try logging in again.</string>
+    <string name="enter_login_details">Please enter your login details</string>
+    <string name="signup_msg">Enter your details and SignUp!!!</string>
+    <string name="name">Name</string>
+    <string name="user_name">Username</string>
+    <string name="signup">SignUp</string>
+    <string name="password_error_msg">Your password should be min 8 characters with atleast one number, special characters[!@#\$%&amp;()], one lowercase letter, and one uppercase letter is mandatory.</string>
+</resources>
